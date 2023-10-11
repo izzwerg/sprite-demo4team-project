@@ -1,0 +1,36 @@
+body {
+    background-color: blanchedalmond;
+}
+
+div {
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+}
+
+svg {
+    margin-right: 8px;
+}
+
+.test-svg1 {
+  stroke: red;
+}
+
+.test-svg2 {
+  fill: black;
+}
+
+.test-svg3 {
+    stroke: red;
+    fill: transparent;
+}
+
+.test-svg4 {
+    stroke: red;
+    fill: black;
+}
+
+.test-svg5 {
+    stroke: red;
+    fill: red;
+}
